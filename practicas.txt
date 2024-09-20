@@ -1,3 +1,8 @@
 quiero seguir adelante sin obstaculos
+<<<<<<< HEAD
 hola soy flinn que haces loco
 soy Hugo estudiante de informatica
+=======
+yo comer pizza todos los dias
+pan
+>>>>>>> Formulario1
